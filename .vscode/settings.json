@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "python.pythonPath": ".env/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true
+    },
+    "python.autoComplete.extraPaths": [
+        "./src"
+    ]
+}
