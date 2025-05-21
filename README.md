@@ -1,6 +1,6 @@
 # Solar Challenge - Week 0
 
-**Author:** Ruhama 
+**Author:** Anasimos Tesfaye
 **KAIM Week 0**
 
 ## Project Description
@@ -14,7 +14,7 @@ To reproduce the development environment, follow these steps:
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/ruhamds/solar-challenge-week1.git
+    git clone https://github.com/anasimos/solar-challenge-week1.git 
     cd solar-challenge-week1
     ```
 2.  Create a virtual environment:
@@ -51,4 +51,4 @@ To reproduce the development environment, follow these steps:
 
 ##  Further Information
 
-
+For any questions or clarifications, please contact me at anasimostesfaye@gmail.com.
