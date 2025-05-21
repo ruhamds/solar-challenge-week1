@@ -1,1 +1,1 @@
-# This file is intentionally left blank.
+# This file makes the 'scripts' directory a package.
