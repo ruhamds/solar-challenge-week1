@@ -1,6 +1,6 @@
 # Solar Challenge - Week 0
 
-**Author:** Anasimos Tesfaye
+**Author:** Ruhama Israel
 **KAIM Week 0**
 
 ## Project Description
@@ -51,4 +51,4 @@ To reproduce the development environment, follow these steps:
 
 ##  Further Information
 
-For any questions or clarifications, please contact me at anasimostesfaye@gmail.com.
+For any questions or clarifications, please contact me at ruheezrael@gmail.com
